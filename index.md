@@ -23,3 +23,15 @@ You can specify column alignment with one or two colons:
 | Phone    | $12   |  12   |
 | Pipe     | $1    |  234  |
 
+Term 1
+Term 2
+:   Definition A
+:   Definition B
+
+Term 3
+
+:   Definition C
+
+:   Definition D
+
+	> part of definition D
