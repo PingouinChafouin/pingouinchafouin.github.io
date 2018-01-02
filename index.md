@@ -7,6 +7,17 @@ ok
 _____________
 
 
+Ceci est u parapgraphe et je vais à la ligne normalement comme ceci
+là je suis sur une nouvelle ligne
+et encore une autre.
+
+ceci est un nouveau paragraphe, je l'aime bien celui là
+mais j'ai rien de plus à dire.
+
+en voilà un troisième
+celui ci a de particulier de faire un retour à la ligne forcé  
+voilà, difrent ?
+
 oui ?
 
 **Markdown Extra** has a special syntax for tables:
