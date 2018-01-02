@@ -1,5 +1,7 @@
- ## bienvenue
+  ## bienvenue
 -------
+
+[TOC]
 
 ok
 _____________
@@ -35,3 +37,39 @@ Term 3
 :   Definition D
 
 	> part of definition D
+
+
+### Footnotes
+
+You can create footnotes like this[^footnote].
+
+  [^footnote]: Here is the *text* of the **footnote**.
+  
+  
+et bien entendu : 
+
+```sequence
+Alice->Bob: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+Bob-->Alice: I am good thanks!
+```
+
+And flow charts like this:
+
+```flow
+st=>start: Start
+e=>end
+op=>operation: My Operation
+cond=>condition: Yes or No?
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```
+
+
+
+
+
+
+
